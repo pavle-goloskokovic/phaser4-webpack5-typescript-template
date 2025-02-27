@@ -1,7 +1,7 @@
 {
-    "name": "phaser3-webpack5-typescript-template",
+    "name": "phaser4-webpack5-typescript-template",
     "version": "0.1.0",
-    "description": "Phaser 3.88, Webpack 5, and TypeScript template",
+    "description": "Phaser 4, Webpack 5, and TypeScript template",
     "main": "src/ts/game.ts",
     "private": true,
     "scripts": {
@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/pavle-goloskokovic/phaser3-webpack5-typescript-template.git"
+        "url": "git+https://github.com/pavle-goloskokovic/phaser4-webpack5-typescript-template.git"
     },
     "keywords": [
         "phaser",
@@ -31,11 +31,11 @@
     "author": "Pavle Goloskoković",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/pavle-goloskokovic/phaser3-webpack5-typescript-template/issues"
+        "url": "https://github.com/pavle-goloskokovic/phaser4-webpack5-typescript-template/issues"
     },
-    "homepage": "https://github.com/pavle-goloskokovic/phaser3-webpack5-typescript-template#readme",
+    "homepage": "https://github.com/pavle-goloskokovic/phaser4-webpack5-typescript-template#readme",
     "dependencies": {
-        "phaser": "^3.88.2",
+        "phaser": "^4.0.0-beta.6",
         "stats.js": "^0.17.0"
     },
     "devDependencies": {
