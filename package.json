@@ -35,7 +35,7 @@
     },
     "homepage": "https://github.com/pavle-goloskokovic/phaser4-webpack5-typescript-template#readme",
     "dependencies": {
-        "phaser": "^4.0.0-rc.1"
+        "phaser": "^4.0.0-rc.4"
     },
     "devDependencies": {
         "@types/gtag.js": "^0.0.20",
